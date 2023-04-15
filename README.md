@@ -5,7 +5,7 @@
 
 
 <div id="badges" align= "center">
-  <a href="https://www.linkedin.com/in/santiago-valenzuela-5b3a261a0/">
+  <a href="https://www.linkedin.com/in/santiago-valenzuela-data-analytic">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.novypro.com/profile_projects/santiago-valenzuela">
@@ -38,7 +38,7 @@ I am a data analytic and data scientist<img src="https://media.giphy.com/media/W
 
 - :zap:In my free time I go trekking and study English.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-valenzuela-5b3a261a0/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-valenzuela-data-analytic)
 
 ---
 
