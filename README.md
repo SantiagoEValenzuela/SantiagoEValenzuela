@@ -1,9 +1,18 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZiOWIwNDViNjg2OGNhN2E0MDliYTg2Y2RmOTY5MjhiOTc2MjhkZCZjdD1z/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+
+
+
+
+<div id="badges" align= "center">
+<img src="https://komarev.com/ghpvc/?username=SantiagoEValenzuela&style=plastic&color=blue" alt=""/>
 </div>
-
-
+<h1 align="center">
+Hi, I'm Santiago Valenzuela
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <div id="badges" align= "center">
   <a href="https://www.linkedin.com/in/santiago-valenzuela-data-analytic">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,17 +24,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div id="badges" align= "center">
-<img src="https://komarev.com/ghpvc/?username=SantiagoEValenzuela&style=plastic&color=blue" alt=""/>
-</div>
-<h1 align="center">
-Hi, I'm Santiago Valenzuela
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
