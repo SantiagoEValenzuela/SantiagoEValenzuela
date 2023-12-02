@@ -32,7 +32,7 @@ I am a data analytic and data scientist<img src="https://media.giphy.com/media/W
 
 - :zap:In my free time I go trekking and study English.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-valenzuela-data-analytic)
+- mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-valenzuela-data-analytic)
 
 ---
 
