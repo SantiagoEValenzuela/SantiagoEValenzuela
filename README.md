@@ -10,15 +10,12 @@ Hi, I'm Santiago Valenzuela
 </div>
 
 <div id="badges" align= "center">
-  <a href="https://www.linkedin.com/in/santiago-valenzuela-data-analytic">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.novypro.com/profile_projects/santiago-valenzuela">
-    <img src="https://img.shields.io/badge/PowerBi-yellow?style=plastic&" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+    <a href="https://www.linkedin.com/in/santiago-valenzuela-data-analytic">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.novypro.com/profile_projects/santiago-valenzuela">
+      <img src="https://img.shields.io/badge/PowerBi-yellow?style=plastic&" alt="Youtube Badge"/>
+    </a>
 </div>
 
 
