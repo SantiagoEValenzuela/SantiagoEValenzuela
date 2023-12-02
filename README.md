@@ -1,8 +1,3 @@
-
-
-
-
-
 <div id="badges" align= "center">
 <img src="https://komarev.com/ghpvc/?username=SantiagoEValenzuela&style=plastic&color=blue" alt=""/>
 </div>
@@ -24,6 +19,9 @@ Hi, I'm Santiago Valenzuela
     <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+
 ---
 
 ### :woman_technologist: About Me :
