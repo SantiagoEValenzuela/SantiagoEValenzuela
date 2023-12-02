@@ -8,6 +8,7 @@ Hi, I'm Santiago Valenzuela
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 <div id="badges" align= "center">
   <a href="https://www.linkedin.com/in/santiago-valenzuela-data-analytic">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
