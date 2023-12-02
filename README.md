@@ -31,8 +31,7 @@ I am a data analyst and data scientist<img src="https://media.giphy.com/media/WU
 
 - :zap: In my free time, I enjoy trekking and dedicatedly study English.
 
-- :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-valenzuela-data-analytic)
-- :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-valenzuela-data-analytic)
+- :mailbox: How to reach me: [(https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-valenzuela-data-analytic)
 
 
 
